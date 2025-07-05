@@ -95,15 +95,3 @@ Projet open-source sous licence MIT.
 > “Design. Data. Digital. Done Right.”
 > — L’équipe Digicraft
 
-```
-
----
-
-### 💡 Et maintenant ?
-
-- Si tu veux :  
-  → Je peux t’intégrer le README directement dans ton projet (si t’es sur GitHub).  
-  → Je peux aussi t’ajouter une capture d’écran pro, ou même un badge style `![Made with ❤️ by Digicraft]()`.
-
-Tu veux que je te le rende *copier/coller ready* avec les liens à jour ?
-```
