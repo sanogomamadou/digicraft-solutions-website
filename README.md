@@ -1,21 +1,9 @@
-
----
-
-## 📄 README.md — *Digicraft Solutions Website*
-
-
 # 🌐 Digicraft Solutions — Design. Data. Digital. Done Right.
 
 Bienvenue sur le site vitrine officiel de **Digicraft Solutions**, une startup à la croisée du design graphique, de la data science et du développement web.  
 Ce projet reflète notre approche moderne, notre vision centrée sur l'impact digital, et notre passion pour l'innovation technologique.
 
 🔗 [Voir le site en ligne](https://digicraft-solutions-website-etin.vercel.app/)
-
----
-
-## ✨ Aperçu
-
-![screenshot homepage](https://your-screenshot-link.com) <!-- remplace par une vraie image si t’as une capture -->
 
 ---
 
@@ -75,8 +63,7 @@ Notre objectif : **créer des ponts entre la data, le design et le code** pour a
 
 **Mamadou Sanogo**
 Étudiant en Ingénierie Informatique (Big Data & AI) à l’Université Internationale de Rabat
-Entrepreneur, développeur web, passionné par la tech & la culture urbaine
-🔗 [LinkedIn](https://linkedin.com/in/ton-lien) • [Instagram](https://instagram.com/ta-boutique) • [Portfolio](https://tonportfolio.com)
+🔗 [LinkedIn](www.linkedin.com/in/mamadou-sanogo-3b22a9263) 
 
 ---
 
@@ -89,9 +76,4 @@ Déployé via [Vercel](https://vercel.com), avec configuration auto de build sur
 ## 📜 Licence
 
 Projet open-source sous licence MIT.
-
----
-
-> “Design. Data. Digital. Done Right.”
-> — L’équipe Digicraft
 
