@@ -3,7 +3,7 @@
 
 ## 📄 README.md — *Digicraft Solutions Website*
 
-````md
+
 # 🌐 Digicraft Solutions — Design. Data. Digital. Done Right.
 
 Bienvenue sur le site vitrine officiel de **Digicraft Solutions**, une startup à la croisée du design graphique, de la data science et du développement web.  
