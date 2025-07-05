@@ -1,36 +1,109 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+---
 
-First, run the development server:
+## 📄 README.md — *Digicraft Solutions Website*
+
+````md
+# 🌐 Digicraft Solutions — Design. Data. Digital. Done Right.
+
+Bienvenue sur le site vitrine officiel de **Digicraft Solutions**, une startup à la croisée du design graphique, de la data science et du développement web.  
+Ce projet reflète notre approche moderne, notre vision centrée sur l'impact digital, et notre passion pour l'innovation technologique.
+
+🔗 [Voir le site en ligne](https://digicraft-solutions-website-etin.vercel.app/)
+
+---
+
+## ✨ Aperçu
+
+![screenshot homepage](https://your-screenshot-link.com) <!-- remplace par une vraie image si t’as une capture -->
+
+---
+
+## 🚀 Fonctionnalités
+
+- Interface 100% responsive
+- Sections animées avec `framer-motion`
+- Effets visuels interactifs en WebGL (CanvasRevealEffect)
+- Thème sombre intégré
+- Expérience fluide pensée UX-first
+- Optimisé pour Vercel (Next.js App Router)
+
+---
+
+## 🛠️ Stack technique
+
+| Technologie        | Description                                  |
+|--------------------|----------------------------------------------|
+| `Next.js 14`       | Framework React full-stack                   |
+| `Tailwind CSS`     | Styling moderne et responsive                |
+| `Framer Motion`    | Animations fluides et dynamiques             |
+| `Three.js / R3F`   | Effets visuels 3D interactifs                |
+| `TypeScript`       | Typage fort pour une base de code solide     |
+
+---
+
+## ⚙️ Installation locale
 
 ```bash
+# 1. Clone le repo
+git clone https://github.com/ton-user/digicraft-solutions-website.git
+
+# 2. Va dans le dossier
+cd digicraft-solutions-website
+
+# 3. Installe les dépendances
+npm install
+
+# 4. Lance le serveur de dev
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+````
+
+Le site sera accessible sur `http://localhost:3000`
+
+---
+
+## 🧠 Vision
+
+> Chez **Digicraft**, on ne vend pas des sites web.
+> On conçoit des expériences digitales qui marquent.
+
+Notre objectif : **créer des ponts entre la data, le design et le code** pour aider les marques et les créateurs à briller dans un monde numérique en perpétuelle évolution.
+
+---
+
+## 👨🏽‍💻 Auteur
+
+**Mamadou Sanogo**
+Étudiant en Ingénierie Informatique (Big Data & AI) à l’Université Internationale de Rabat
+Entrepreneur, développeur web, passionné par la tech & la culture urbaine
+🔗 [LinkedIn](https://linkedin.com/in/ton-lien) • [Instagram](https://instagram.com/ta-boutique) • [Portfolio](https://tonportfolio.com)
+
+---
+
+## 📦 Déploiement
+
+Déployé via [Vercel](https://vercel.com), avec configuration auto de build sur chaque `push`.
+
+---
+
+## 📜 Licence
+
+Projet open-source sous licence MIT.
+
+---
+
+> “Design. Data. Digital. Done Right.”
+> — L’équipe Digicraft
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 💡 Et maintenant ?
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Si tu veux :  
+  → Je peux t’intégrer le README directement dans ton projet (si t’es sur GitHub).  
+  → Je peux aussi t’ajouter une capture d’écran pro, ou même un badge style `![Made with ❤️ by Digicraft]()`.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Tu veux que je te le rende *copier/coller ready* avec les liens à jour ?
+```
